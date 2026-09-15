@@ -1,0 +1,25 @@
+# Flex & Bison generated files
+lex.yy.c
+*.tab.c
+*.tab.h
+
+# Object files (compiled binaries from C sources)
+*.o
+*.obj
+
+# Dynamic & Static libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables (compiled output without extensions)
+example1
+example2
+example3
+example4
+lexer
+
+# Generic Windows Executables
+*.exe
